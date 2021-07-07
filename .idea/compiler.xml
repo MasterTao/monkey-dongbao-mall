@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="monkey-dongbao-cms-api" />
+        <module name="monkey-dongbao-oms-api" />
+        <module name="monkey-dongbao-generator" />
+        <module name="monkey-dongbao-pms" />
+        <module name="monkey-dongbao-oms" />
+        <module name="monkey-dongbao-pms-api" />
+        <module name="monkey-dongbao-ums-api" />
+        <module name="monkey-dongbao-sms" />
+        <module name="monkey-dongbao-cart" />
+        <module name="monkey-dongbao-manager-web" />
+        <module name="monkey-dongbao-dictionary" />
+        <module name="monkey-dongbao-pay" />
+        <module name="monkey-dongbao-cart-api" />
+        <module name="monkey-dongbao-sms-api" />
+        <module name="monkey-dongbao-common-base" />
+        <module name="monkey-dongbao-cms" />
+        <module name="monkey-dongbao-dictionary-api" />
+        <module name="monkey-dongbao-ums" />
+        <module name="monkey-dongbao-job" />
+        <module name="monkey-dongbao-pay-api" />
+        <module name="monkey-dongbao-common-util" />
+        <module name="monkey-dongbao-portal-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
